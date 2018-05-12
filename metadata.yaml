@@ -1,5 +1,8 @@
 _repo: Time-s-Portraiture-From---The-Doliver-Romance-and-Other-Pieces--Tales-and-Sketches--_9252
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: The newspaper carrier assumes the role of Time's errand boy and goes
   about town to let people know what they are thinking about and what they are doing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9252#Time-s-Portraiture-From---The-Doliver-Romance-and-Other-Pieces--Tales-and-Sketches--
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
